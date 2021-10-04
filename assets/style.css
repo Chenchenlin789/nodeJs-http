@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    list-style: none;
+}
+
+ul{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    color: steelblue;   
+}
